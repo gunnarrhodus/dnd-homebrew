@@ -1,0 +1,324 @@
+== Inquisitor ==
+
+A Young Elf hears the call. The land is threatened by a demon seeking to conquer it, with holy blade in hand he forms the inquisition and gathers an army of allies to fell the fowl demon banishing it back to the nine hells.
+
+A Human Woman grows up in a church knowing a life of peace and faith, until the day a Paladin returns with some odd curse that plagues his mind and withers his body. Determined to save him she tracks its source and puts down a cult of undead attempting to resurrect an old lich, curing the paladin of his wrathful curse.
+
+A Golden Dragonborn discovers a plot to raid his city and destroy the temples within. He interrogates the one bandit he left alive to tell him a name, he gets it and spends the next few days secretly gathering evidence against the man before storming his home and placing him under arrest. His plans foiled by the inquisitor's men.
+
+A Paladin’s purpose is to protect and serve their fellow man all the while slaying evil, a Cleric’s duty is to heal and guide those of the faith whilst upholding their God's tenants. An Inquisitor’s purpose is to hunt down enemies of the faith and destroy them before they can act. The Inquisitor is of a rank above the church allowing them to act independently and of their own volition. Make no mistake, an Inquisitor is an agent of god, not the church. Their expertise in interrogation, divine magic, and hunting tactics make them very effective at putting down threats to the faith before they can grow.
+
+<!--Explore this chapter in more detail here-->
+
+=== Creating an Inquisitor ===
+<div class="externalimage-holder" style="width:50%">
+{{5e Image|float:right|<!--link to an image-->|<!--Caption, art credit, link to source-->}}</div>
+
+For what reason do you serve? What church do you belong to, how did you join, and what motivated you to become an Inquisitor? Were you born into it? Perhaps you wanted to escape your old life and serve a new purpose, or maybe you responded to the call to arms of an inquisition. Whatever your reason for being a divine agent ask yourself inquisitor, why are you adventuring?
+
+;Quick Build
+You can make an inquisitor quickly by following these suggestions. First, {{5a|cha}} should be your highest ability score, followed by {{5a|str}} or {{5a|dex}}.  Second, choose the Master Inquisitor background. Third, choose a longsword or rapier, scale mail, a cloak, and a book of your deity's teachings. 
+
+{{5e Class Features
+|name= Inquisitor
+|summary=Inquisitors are agents of gods who hunt down enemies of the faith with divine judgement and magic.
+|hd=8
+|spellcasting=half
+|armor=Light and Medium
+|weapons= Simple, Martial, Deity's Favored Weapon
+|tools= Disguise Kit, Thieves Tools
+|saves= {{5a|cha}}, {{5a|dex}}
+|skills= Choose 2 from the following; {{5s|Deception}}, {{5s|Insight}}, {{5s|Persuasion}}, {{5s|Stealth}}, {{5s|Survival}}, {{5s|Religion}}
+|item1a= Deity's Favored Weapon and one simple weapon
+|item1b= Deity's Favored Weapon and one light crossbow with 5 bolts
+|item1c=
+|item2a= One Martial Weapon
+|item2b= A dagger and 5 crossbow bolts
+|item2c=
+|item3a= {{5e|Scale Mail (Armor)|scale mail}}, 1 vial of holy water, a book of your deity's teachings, one holy symbol
+|item3b=
+|item3c=
+|item4a=
+|item4b=
+|item4c=
+|wealth= 4d4 x 10
+|classfeatures1= Favored Weapon, Judgement, Mortal Sense
+|classfeatures2=[[#Spellcasting|Spellcasting]], Cunning Initiative
+|classfeatures3= Inquisitor School
+|classfeatures4= 
+|classfeatures5= Extra Attack
+|classfeatures6= Divine Fury
+|classfeatures7= Inquisitor School Technique
+|classfeatures8= 
+|classfeatures9= Proficient Initiative
+|classfeatures10= Dual Judgement
+|classfeatures11= Stalwart
+|classfeatures12= 
+|classfeatures13= Blessed Destruction
+|classfeatures14= Exploit Weakness
+|classfeatures15= Inquisitor School Technique
+|classfeatures16= 
+|classfeatures17= 
+|classfeatures18= Grand Inquisitor
+|classfeatures19= 
+|classfeatures20= True Judgement
+
+|extrasonleft=<!--You can have up to five extra columns, normally to the right of the Features column (e.g. warlock). Setting this parameter to 1, 2, 3, 4, or 5 will put that many of the extra columns on the left instead (e.g. monk). -->
+|extra1_name=Cantrips Known
+|extra1_1=0<!--The values at each level go here-->
+|extra1_2=3
+|extra1_3=3
+|extra1_4=4
+|extra1_5=4
+|extra1_6=4
+|extra1_7=4
+|extra1_8=4
+|extra1_9=4
+|extra1_10=5
+|extra1_11=5
+|extra1_12=5
+|extra1_13=5
+|extra1_14=5
+|extra1_15=5
+|extra1_16=5
+|extra1_17=5
+|extra1_18=5
+|extra1_19=5
+|extra1_20=5
+
+|extra2_name=Judgement Uses
+|extra2_1=1<!--The values at each level go here-->
+|extra2_2=1
+|extra2_3=2
+|extra2_4=2
+|extra2_5=2
+|extra2_6=3
+|extra2_7=3
+|extra2_8=3
+|extra2_9=4
+|extra2_10=4
+|extra2_11=4
+|extra2_12=5
+|extra2_13=5
+|extra2_14=5
+|extra2_15=6
+|extra2_16=6
+|extra2_17=6
+|extra2_18=7
+|extra2_19=7
+|extra2_20=7
+}}
+==== Judgement ====
+
+: At 1st level, an Inquisitor can pronounce judgement upon their enemies as a bonus action. When judgement is called the Inquisitor receives a divine bonus based on the type of judgement. Additionally, an Inquisitor may sacrifice a spell slot to empower the judgement called. You may call judgement once per long rest, and at level 3 and every 3 levels afterwards you gain an additional use of judgement up to a max of 7 uses at level 18. Judgement lasts for a minute. If you are rendered frightened, panicked, paralyzed, stunned, or unconscious judgement doesn’t end, but you won’t receive the bonus until you are restored. Judgements can be swapped mid combat as a bonus action, but swapping it returns it to its base level requiring another spell slot to empower it.; spell slots increase the judgement bonus by the level of the slot (example using a level 3 spell slot makes the bonus a plus 4). You regain all expended uses of judgement when you finish a long rest.
+
+;Destruction: Divine wrath empowers your blade making each swing a deadly strike, you deal +1 on damage rolls.
+
+;Justice: Your blade will swing true and always strike your enemy, you gain a +1 bonus to attack rolls.
+
+;Healing: Divine light closes your wounds and heals your injuries, you heal 1 hit point on the start of your turn.
+
+;Protection: Your form is that of iron and attacks against you are made in vain, you gain a +1 to your Armor Class.
+
+;Divinity: You are chosen by the gods themselves to succeed, you gain a +1 bonus to skill checks.
+
+;Purity: The arcane holds no sway over you, you gain a +1 to saving throws versus spells.
+
+;Resistance: A layer of divine power protects you from the harmful energies of the world, you gain resistance to one of the following. Acid, cold, lightning, or fire (empowering this allows you to choose additional energies).
+
+;Resilience: The powers of the divine purge your body of harm, you gain a +1 to saving throws versus physical effects such as poison or paralysis.
+
+==== Favored Weapon ====
+
+: (Quick Note: The favored weapon of your deity is essentially the weapon most associated with that deity or their followers. Traditionally this could be any weapon simple, martial, or exotic and it is up to you and your DM to decide what weapon represents your deity.)
+
+At 1st level you are proficient with the favored weapon of your deity even if you don’t normally have proficiency with that weapon type. At level 3 when wielding your Deity’s favored weapon, you can imbue the weapon once per long rest to gain one of the following benefits.
+
+* Attacks against enemies of your opposing alignment or those who worship enemies of your deity have advantage.
+
+* Your weapon deals an additional 1d4 radiant damage.
+
+==== Mortal Sense ====
+: At 1st level the eyes and ears of an Inquisitor have been honed to a much higher degree when gathering information. Whenever you attempt an insight check to see if an npc is lying, withholding information, etc you can ask the DM to see if your mortal sense notices anything. The DM makes a charisma saving throw with a DC equal to 8 + your proficiency bonus + 1/2 your charisma modifier rounded down for that character. Upon failure the give out a tell, something that your senses only can witness that proves they are lying or hiding something, this doesn't let you know the difference so you must still attempt another insight check however you now have advantage if you witness the tell.
+
+==== Cunning Initiative ====
+
+: At 2nd level the inquisitor's charm helps them to confidently lead their allies into battle. The inquisitor may now add their charisma modifier to their initiative.
+
+==== Spellcasting ====
+
+: Due to your unique connection to your deity you have been granted the ability to tap into their divine power and cast magic through your own charm and ambition.
+
+'''Cantrips'''
+
+At 2nd level, you know 3 Cantrips of your choice from the inquisitor spell list. You learn additional Cantrips of your choice at higher levels, as shown in the Cantrips known column of the inquisitor table.
+
+'''Spell slots'''
+
+The inquisitor table shows how many spell slots you have at your disposal. To cast a spell you expend a spell slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+You prepare the list of inquisitor Spells that are available for you to cast, choosing from the inquisitor spell list. When you do so, choose a number of inquisitor Spells equal to your Charisma modifier + half your inquisitor level, rounded down (minimum of one spell). The Spells must be of a level for which you have Spell Slots.
+
+For example, if you are a 5th-level inquisitor, you have four 1st-level and two 2nd-level Spell Slots. With a Charisma of 14, your list of prepared Spells can include four Spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell Cure Wounds, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared Spells.
+
+You can change your list of prepared Spells when you finish a Long Rest. Preparing a new list of inquisitor Spells requires time spent in prayer and meditation: at least 1 minute per Spell Level for each spell on your list.
+
+'''Spellcasting Ability'''
+
+Charisma is your spellcasting ability for your inquisitor Spells, since their power derives from the force of your personality. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when Setting the saving throw DC for a inquisitor spell you cast and when Making an Attack roll with one.
+
+Spell save DC = 8 + your proficiency bonus + your Charisma modifier
+Spell Attack modifier = your proficiency bonus + your Charisma modifier
+
+'''Spellcasting focus'''
+
+You can use a holy symbol as a spellcasting focus for your inquisitor spells.
+
+==== Ability Score Increase ====
+
+: When you reach 4th level, and again at 8th, 12th, 16th and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1.  As normal, you can't increase an ability score above 20 using this feature.
+
+====Extra Attack====
+
+: Starting at 5th level, you may attack twice instead of once when you take the Attack action on your turn.
+
+====Divine Fury====
+
+: Starting at 6th level an inquisitor can imbue one of their weapons with radiant light against an enemy type as a bonus action. While active they gain a bonus to attack rolls equal to half of their charisma modifier (rounded down) and deal an additional 2d6 radiant damage against that targeted type of enemy. They must select one creature type when they use this ability. This ability only functions while the inquisitor wields the weapon. If dropped or taken, the weapon resumes granting this ability if it is returned to the inquisitor before the duration expires. This ability lasts for rounds equal to the inquisitor’s level. The Inquisitor must complete a short or long rest in order to regain use of this feature.
+
+'''Enemy types'''
+Aberrations, Beasts, Celestials, Constructs, Dragons, Elementals, Fey, Fiends, Giants, Humanoids (choose a type of humanoid), Monstrosities, Oozes, Plants, or Undead.
+
+====Proficient Initiative====
+
+: Starting at 9th level an Inquisitor's cunning mind allows them to quickly decide upon the best strategy for combat. At the start of initiative the inquisitor may trade their initiative total with an ally's, if done the inquisitor can then add their proficiency modifier to their new initiative.
+
+====Dual Judgement====
+
+: Starting at 10th level an Inquisitor may invoke 2 different judgements at a time, this only consumes one use of judgement. However, you can only empower one judgement at a time, but you can still swap and choose another judgement or switch which one is empowered.
+
+====Stalwart====
+
+: Starting at 11th level an Inquisitor can use mental and physical resiliency to avoid certain attacks. If they make a Constitution or Wisdom saving throw against an attack that has a reduced effect on a successful save, they instead avoid the effect entirely. This ability can only be used if the inquisitor is wearing light armor, medium armor, or no armor. A helpless inquisitor does not gain the benefit of the stalwart ability.
+
+====Blessed Destruction====
+
+: Starting at 13th level whenever an Inquisitor calls upon divine fury the bonus damage increases to 4d6.
+
+====Exploit Weakness====
+
+: Starting at 14th level an Inquisitor learns to take advantage of any opportunity that presents itself. Whenever the Inquisitor scores a critical hit, they ignore any damage reduction the target might have. In addition, if the target has regeneration, the creature loses regeneration on the round following the critical hit and can die normally during that round. Creatures whose regeneration always functions are immune to this ability. Finally, if the inquisitor deals energy damage to a creature with vulnerability to that energy type, they deal +1 point of damage per die rolled.
+
+====Grand Inquisitor====
+: Starting at 18th level an Inquisitor learns how to focus their destructive powers into their judgements. They can now choose 3 judgements to use at once, and once per long rest whenever an inquisitor uses their judgment ability, they can select one type of judgment. This one judgement is performed at the max spell slot upgrade the Inquisitor can do without spending a spell slot. Unlike other types of judgment, the one enhanced by this ability cannot be changed for the remainder of the judgment.
+
+====True Judgement====
+: Starting at 20th level an inquisitor can call true judgment down upon a foe during combat. Whenever an inquisitor uses her judgment ability, the inquisitor can invoke true judgment on a foe as a bonus action. Once declared they can make a single melee attack against the target. After you attempt True Judgement you lose your current active judgements and if the attack hits, it deals damage normally and the target must make a Constitution save or die. The DC of this save is equal to 8 + proficiency bonus + the inquisitor’s charisma modifier. Upon success or failure, the target creature is completely immune to the inquisitor’s true judgment ability for 24 hours. Once this ability has been used, it cannot be used again until after a long rest.
+
+=== Commander Subclass ===
+
+: Starting at level 3 you can dedicate yourself to the school of tactics. The Commander is master of tactics and a dominant presence on the battlefield, assisting allies and charging in the front lines to help through their Tactician Maneuvers.
+
+==== Bonus Proficiency ====
+
+: When you become a Commander you gain proficiency in cartographer's tools and Intimidation. If you have Intimidation choose another skill from the Inquisitor list.
+
+==== Tactician Points ====
+
+: Starting at level 3 Commanders are masters of the battlefield and can perform maneuvers to help their allies. This is done through tactician points, TP may be used during combat and outside of it to perform maneuvers, you start at level 3 with 5 + your charisma modifier of tactician points. At level 6 and every 3 levels after you gain 1 more TP. You regain all tactician points after finishing a short rest. The DC for saving throws against your maneuvers is 8 + proficiency + charisma modifier.
+
+;Level 3 Tactician Maneuvers
+
+* Coordinated Charge: Whenever an ally within 30ft that you can see moves towards an enemy you can spend 1 point as a reaction to sacrifice your next turn's movement action and reposition yourself at your full move speed.
+* Open Fire: When an ally within 60ft that you can see fires a ranged weapon at an enemy that you can see you can spend 2 points to use your reaction to fire a ranged weapon you have at the same target. Alternatively, you can spend 4 points to cast a single target ranged spell attack at that target instead.
+
+* Evader: Whenever you perform the move action before you start moving you can add points to your armor class only against attacks of opportunity for a number of rounds equal to your charisma modifier.
+
+;Level 7 Tactician Maneuvers
+
+* Inspire Greatness: As a bonus action you can spend 1 point to give an ally you can see within 30ft a 1d4 bonus to their next attack, saving throw, or skill check. You can spend more points to increase the amount of allies receive the bonus.
+* Redirect Threat: As a reaction you can spend 2 point to make all enemies within 30ft of you make a charisma saving throw. Upon failure they must turn to face you and do everything within their power to attack you, however every attack made against you provokes an attack of opportunity from you and your allies. They can reattempt the saving throw at the end of their next and subsequent turns.
+
+* Follow Up Attack: After an ally confirms a hit on an enemy adjacent to you, before the damage is rolled you can spend 4 TP to follow up on the attack with one of your own.
+
+;Level 15 Tactician Maneuvers
+
+* Inspiring Charge: As an action, you may spend 4 TP to charge an enemy at full move speed inspiring creatures of your choice equal to your charisma modifier within sight, and they gain a 1d6 inspiration die after which you then make a single melee weapon attack against your target.
+
+* Redirect Target: As a reaction you can spend 4 TP to make all enemies within 80ft make a charisma saving throw. On a failure if a creature has a ranged weapon, spell, or ability they must use it to attack you, however if an ally is within 60ft of that creature when they are about to fire your allies may use their reaction if they have a ranged weapon to attack that creature.
+
+* Tactical Advantage: As a reaction you may spend 5 TP to immediately take a full turn, however attacks against you have advantage until the end of your next turn, and once tactical advantage ends you are stunned until the end of your next turn.
+
+=== Crusader Subclass ===
+
+: Starting at level 3 you can dedicate yourself to the school of combat. The Crusader is a battle-hardened Inquisitor who fights with honor, courage, and divine magic to destroy enemies of the faith. Tenants of their holy orders know to make way for a Crusader.
+
+==== Bonus Proficiencies ====
+
+: When you become a Crusader you become proficient in vehicles (land) and religion. If you are already proficient in religion choose another skill from the inquisitor list.
+
+==== Holy Orders ====
+
+: Starting at level 3 a Crusader dedicates themselves to a lost sect of the inquisition and take up Holy Orders to better serve their deity through either magic, combat, or devotion. Once you select a Holy Order at level 3 you must follow that order specifically, you cannot take the teachings of another holy order. There are three kinds of holy orders.
+
+* Order of the First Sin: You detest evil in its purest form and hold no love for demons, devils and aberrations but understand how their power operates and how useful it can be. Whenever you kill a living creature you may consume its sin, killing a devil, demon or aberration gives you 2 counts of sin. Whenever you store sin your maximum HP temporarily decreases by 3 however you can spend Sin to deal an additional 1d4 necrotic damage on weapon attacks or spell attacks and regain lost max hit points (does not actually heal, just restores max health pool)
+
+* Order of the Executioner: To you heretics are scum who aren’t worth the effort in saving to you and you are much more effective at slaying enemies with your weapons rather than magic. When using the judgements Destruction or Justice, you have advantage on the first strike of your turn if your first action is an attack, and your critical hits inflict 1 point of exhaustion upon your enemy, however you lose the judgements healing, divinity, resistance, purity, and protection.
+
+* Order of the War Caster: You have always shown promise in arcane arts and have discovered how much of a conduit your body is for radiant light. You gain Light and Sacred Flame as a cantrip and you always have the spells Guiding Bolt, Shield of Faith, and Bless prepared these do not count against your number of spells prepared. However you are not well suited for combat and as such lose proficiency in medium armor and take a penalty to melee attack rolls and melee weapon damage equal to your charisma modifier.
+
+==== Holy Orders Verse II ====
+
+: Starting at 7th level you continue to take up the verses of your holy orders.
+
+* Order of the First Sin: When you store Sin you can now choose to manually expel it as a projectile. As a bonus action you can fire a sin bolt, a Sin Bolt can travel 30ft and deals 1d8 + charisma modifier of necrotic damage, to hit you perform a spell attack roll.
+
+* Order of the Executioner: Enemies felled by your hand are immediately sanctified and cannot be made undead, communicated with speak with dead spells, or resurrected unless it’s true resurrection or a god’s doing. This can be overcome though it requires an arcana check with a DC equal to 8 + Inquisitor Level + Charisma Modifier.
+
+* Order of the War Caster: Whenever you take a short rest you regain some expended spell slots. The spell slots can have a combined level that is equal to or less than half your inquisitor level (rounded up).
+
+==== Holy Orders Verse III ====
+
+: Starting at 15th level you take up the final tenants of your holy orders and continue onwards with your crusade.
+
+* Order of the First Sin: If you hold 10 counts of sin within yourself you may expel it all at once in a large burst of black tendrils. Sin expulsion has a radius of a 30ft radius centered on yourself that deals 5d10 necrotic damage and 1d10 piercing damage. All creatures minus yourself must make a dexterity saving throw, on success they take half damage and do not take the piercing damage. The DC is 8 + Your Proficiency Bonus + Your Charisma Modifier.
+
+* Order of the Executioner: Whenever you perform a critical hit with a melee weapon the target must make a constitution saving throw vs a DC of 10 + your proficiency modifier + your strength or dexterity modifier. on a failure they  suffer a brutal wound dealing an additional 2 weapon dice of damage.
+
+* Order of the War Caster: You gain proficiency in constitution saving throws and can cast a cantrip with a single target attack roll as a bonus action if your first action was to cast a spell.
+
+=== <!--Class Name--> Spell List ===
+
+You know all of the spells on the basic <!--class name--> spell list and additional spells based on your subclass.
+;Cantrips
+''Blade Ward, Chill Touch, Light, Sacred Flame, Spare the Dying, Toll the dead, True Strike, Word of Radiance.''
+;1st Level
+''Bane, Bless, Command, Compelled Duel, Cure Wounds, Detect Evil and Good, Detect Magic, Disguise Self, Divine Favor, Healing Word, Heroism, Hunter's Mark, Protection from Evil and Good, Purify Food and Drink, Sanctuary, Searing Smite, Shield of Faith, Thunderous Smite''
+
+;2nd Level
+''Aid, Augury, Branding Smite, Beast Sense, Calm Emotions, Continual Flame, Find Traps, Find Steed, Hold Person, Invisibility, Lesser Restoration, Locate Object, Magic Weapon, Mind Spike, Misty Step, Protection from Poison, Silence, Spiritual Weapon, Suggestion, Zone of Truth''
+
+;3rd Level
+''Beacon of Hope, Bestow Curse, Blinding Smite, Clairvoyance, Counterspell, Create Food and Water, Crusader's Mantle, Daylight, Dispel Magic, Elemental Weapon, Enemies Abound, Fear, Magic Circle, Nondetection, Protection from Energy, Remove Curse, Revivify, Sending, Speak with Dead, Tongues, Water Walk''
+
+;4th Level
+''Aura of Purity, Banishment, Charm Monster, Death Ward, Dimension Door, Divination, Elemental Bane, Find Greater Steed, Guardian of Faith, Locate Creature, Staggering Smite''
+
+;5th Level
+''Banishing Smite, Commune, Contact Other Plane, Dawn, Dominate Person, Dream, Destructive Wave, Dispel Evil and Good, Far Step, Geas, Greater Restoration, Holy Weapon, Legend Lore, Mislead, Modify Memory, Raise Dead, Scrying''
+
+=== Multiclassing ===
+
+<!--Provide any information or prerequisites on multiclassing into this class beyond the rules in the PHB, Chapter 6.-->
+
+'''Prerequisites.''' To qualify for multiclassing into the Inquisitor class, you must meet these prerequisites: 13 Charisma, 13 Strength or Dexterity.
+
+'''Proficiencies.''' When you multiclass into the Inquisitor class, you gain the following proficiencies: Light and Medium Armor, Simple and Martial Weapons, One skill from the classes skill list.
+
+
+----
+{{5e Classes Breadcrumb}}
+[[Category:5e]]
+[[Category:User]]
+[[Category:Class]]
+[[Category:5e Class Variant]][[Category:Paladin Tag]]      <!-- core class - P - Religiously associated fighter, often a hero or an offensive combat oriented fighter. -->
